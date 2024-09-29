@@ -8,8 +8,8 @@ func main() {
 
 	//fmt.Print("hello", "heyhey") //Print不会自动空格/换行
 
-	var a = "aaa"        //go中变量定义了就必须使用
-	fmt.Printf(" %v", a) //格式化输出
+	var a = "aaa"           //go中变量定义了就必须使用
+	fmt.Printf(" %v \n", a) //格式化输出
 
 	var b int = 10
 	var c int = 3
